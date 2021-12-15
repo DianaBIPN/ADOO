@@ -3,7 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/dorian/NetBeansProjects/SAP/src/sap/SAP.java</file>
+            <file>file:/home/dorian/NetBeansProjects/ADOO/src/controlador/ControlPersistencia.java</file>
+            <file>file:/home/dorian/NetBeansProjects/ADOO/src/controlador/ControlLider.java</file>
+            <file>file:/home/dorian/NetBeansProjects/ADOO/src/modelo/Lider.java</file>
+            <file>file:/home/dorian/NetBeansProjects/ADOO/src/modelo/Integrante.java</file>
+            <file>file:/home/dorian/NetBeansProjects/ADOO/src/vista/RegistroLider.java</file>
+            <file>file:/home/dorian/NetBeansProjects/ADOO/src/sap/SAP.java</file>
         </group>
     </open-files>
 </project-private>
